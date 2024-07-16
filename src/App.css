@@ -1,0 +1,11 @@
+.frame {
+  width: 1000px;
+  height: 640px;
+  border: none;
+  overflow: hidden;
+  border-radius: 8px;
+  margin-left: 16px;
+  margin-top: 16px;
+  background: linear-gradient(225deg, rgba(21,23,30,1) 0%, rgba(20,22,30,1) 35%, rgba(18,33,46,1) 100%);
+  box-shadow: 8px 8px 17px -1px rgba(0,0,0,0.5);
+}
